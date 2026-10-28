@@ -1,0 +1,14 @@
+# Ignore virtual environment
+venv/
+.venv/
+env/
+
+# Ignore large datasets
+data/
+
+# Ignore trained model pickles (re-generatable via code)
+*.pkl
+
+# Ignore python cache files
+__pycache__/
+*.pyc
