@@ -77,4 +77,4 @@ if st.button("Analyze Headline", type="primary"):
             st.error(f" An error occurred during calculations: {e}")
 
 st.markdown("---")
-st.caption("Academic Project Submission Evaluation Environment")
+st.caption(" Project using a static dataset")
