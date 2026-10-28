@@ -11,8 +11,9 @@ A machine learning project designed to classify news articles as fake or real.
 
 1. **Clone the repository:**
    ```bash
-   git clone <your-github-repo-url>
-   cd fake_news_detector
+   git clone https://github.com/ajoymalik0120-lgtm/fake_news_detector-0.2.git
+
+   cd fake_news_detector-0.2
    ```
 
 2. **Install dependencies:**
