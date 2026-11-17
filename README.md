@@ -23,6 +23,10 @@ A machine learning project designed to classify news articles as fake or real.
 
 3. **Data & Training:**
    * Place your `fake.csv` and `real.csv` data inside a `data/` directory.
+
+4. **Live Demo:**
+   [Try the fake news detection system here]
+   (https://fakenewsdetector-02-usingstaticdata.streamlit.app/)
    * Run `python train_model.py` to generate the `.pkl` model files.
 
 4. **Run the Application:**
