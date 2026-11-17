@@ -7,7 +7,7 @@ env/
 data/
 
 # Ignore trained model pickles (re-generatable via code)
-*.pkl
+
 
 # Ignore python cache files
 __pycache__/
